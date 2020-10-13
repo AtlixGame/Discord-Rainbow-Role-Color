@@ -4,7 +4,7 @@ import random
 
 token = 'votre token'
 serverid = 644660079848587264
-rainbowrolename = "non du role"
+rainbowrolename = "nom du role"
 delay = 5
 
 
