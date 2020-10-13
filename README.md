@@ -6,10 +6,12 @@
 
 ---
 
+```
 token = 'NTg5OTY5ODcyMDc4MzExNDM2.XQbZiQ.SYXezQZCKh-qYE5cCyJr758YWZ9'
 serverid = 548887219172278292
 rainbowrolename = "Rainbow role"
 delay = 5
+```
 
 ---
 
